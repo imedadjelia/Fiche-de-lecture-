@@ -14,11 +14,12 @@ Il offre aussi des conseils pratiques pour gérer une campagne de test, du cycle
 Un accent particulier est mis sur la préparation à la certification ISTQB.
 
 ## 3. Thèmes principaux
-Les 7 principes des tests logiciels : Montrer la présence de défauts, tester tôt, l'illusion de l'absence de défauts, etc.
-Tests logiciels : Tests fonctionnels, non fonctionnels, tests de régression, intégration.
-Techniques de test : Boîte noire, boîte blanche, tests dynamiques et statiques.
-Processus et stratégies : Gestion des campagnes de test, planification, et matrice de traçabilité.
-Outils et normes : Préparation à la certification ISTQB, et exploration des outils de tests logiciels.
+Les 7 principes des tests logiciels : 
+* Montrer la présence de défauts, tester tôt, l'illusion de l'absence de défauts, etc.
+* Tests logiciels : Tests fonctionnels, non fonctionnels, tests de régression, intégration.
+* Techniques de test : Boîte noire, boîte blanche, tests dynamiques et statiques.
+* Processus et stratégies : Gestion des campagnes de test, planification, et matrice de traçabilité.
+* Outils et normes : Préparation à la certification ISTQB, et exploration des outils de tests logiciels.
 ## 4. Analyse critique
 Ce livre est particulièrement utile pour ceux qui souhaitent approfondir leurs connaissances des tests logiciels, qu'ils soient étudiants ou professionnels.
 Il combine théorie et pratique en proposant une approche rigoureuse et détaillée.
