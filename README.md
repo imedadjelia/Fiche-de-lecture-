@@ -1,8 +1,8 @@
 # Fiche de lecture : Pratique des tests logiciels
 
 
-1. Informations générales
-Titre : Pratique des tests logiciels – Améliorer la qualité par les tests
+## 1. Informations générales
+* Titre : Pratique des tests logiciels – Améliorer la qualité par les tests
 Auteurs : Jean-François Pradat-Peyre et Jacques Printz
 Édition : Dunod, 4e édition, 2021
 Genre : Essai technique, Informatique, Tests logiciels
